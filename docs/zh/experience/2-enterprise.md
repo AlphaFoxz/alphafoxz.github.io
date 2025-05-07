@@ -48,7 +48,7 @@
 ![铸造云2](./2-enterprise-zhuzaoyun2.png){width="50%"}
 
 <i class="pi pi-globe"></i>
-[官网地址](https://job.zhuzaocloud.com/){target="\_blank"}
+[官网地址](https://job.zhuzaocloud.com/)
 
 - 助力传统制造业的企业进行职位发布、人才库管理等。
 - 同时对应聘者提供方便快捷的信息建档、建立投递、在线沟通等服务

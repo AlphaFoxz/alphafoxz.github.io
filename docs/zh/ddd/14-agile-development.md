@@ -1,6 +1,6 @@
 # DDD 与敏捷开发
 
-[视频链接](https://www.bilibili.com/video/BV171421f7qE){target="\_blank"}
+[视频链接](https://www.bilibili.com/video/BV171421f7qE)
 
 ## DDD 与敏捷开发不存在必然关系
 

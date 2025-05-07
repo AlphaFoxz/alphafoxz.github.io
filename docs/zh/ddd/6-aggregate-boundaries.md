@@ -1,6 +1,6 @@
 # 聚合的上下限
 
-[视频链接](https://www.bilibili.com/video/BV1yM411d7RU){target="\_blank"}
+[视频链接](https://www.bilibili.com/video/BV1yM411d7RU)
 
 ## 原版蓝皮书定义
 

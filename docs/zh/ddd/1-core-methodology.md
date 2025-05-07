@@ -1,6 +1,6 @@
 # DDD 核心方法论
 
-[视频链接](https://www.bilibili.com/video/BV1re411D7wb){target="\_blank"}
+[视频链接](https://www.bilibili.com/video/BV1re411D7wb)
 
 - 设计的根本在于：**领域通过领域模型驱动软件设计**
 

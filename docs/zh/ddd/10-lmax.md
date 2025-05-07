@@ -1,6 +1,6 @@
 # LMAX 架构
 
-[视频链接](https://www.bilibili.com/video/BV14v42117yT){target="\_blank"}
+[视频链接](https://www.bilibili.com/video/BV14v42117yT)
 
 - Martin Forwler 2005 年
   - <https://martinfowler.com/articles/lmax.html>
@@ -21,15 +21,15 @@
 
 ### 传统时序
 
-![传统时序](./10-lmax1.png){width=100%}
+![传统时序](./10-lmax1.png)
 
 ### 事件溯源时序
 
-![事件溯源时序](./10-lmax2.png){width=100%}
+![事件溯源时序](./10-lmax2.png)
 
 ### LMAX 时序
 
-![LMAX时序](./10-lmax3.png){width=100%}
+![LMAX时序](./10-lmax3.png)
 
 ## 内存化的仓储实现示例
 

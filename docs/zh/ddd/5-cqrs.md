@@ -1,6 +1,6 @@
 # DDD 与 CQRS
 
-[视频链接](https://www.bilibili.com/video/BV1Sa4y1U7TR){target="\_blank"}
+[视频链接](https://www.bilibili.com/video/BV1Sa4y1U7TR)
 
 - C：Command and 命令和
 - Q：Query 查询

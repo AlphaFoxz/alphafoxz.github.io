@@ -1,6 +1,6 @@
 # DDD 与 MVC
 
-[视频链接](https://www.bilibili.com/video/BV1F6421u7KF){target="\_blank"}
+[视频链接](https://www.bilibili.com/video/BV1F6421u7KF)
 
 ## 介绍
 

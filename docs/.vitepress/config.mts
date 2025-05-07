@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'AlphaFoxz',
   description: 'A VitePress Site',
-  head: [['link', { rel: 'icon', href: '/public/avatar.png' }]],
+  head: [['link', { rel: 'icon', href: '/avatar.png' }]],
   base: '/',
   locales: {
     root: {

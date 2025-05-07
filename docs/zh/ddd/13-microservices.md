@@ -1,6 +1,6 @@
 # DDD 与微服务
 
-[视频链接](https://www.bilibili.com/video/BV1wA4m1G7a8){target="\_blank"}
+[视频链接](https://www.bilibili.com/video/BV1wA4m1G7a8)
 
 ## DDD 与微服务的关系
 

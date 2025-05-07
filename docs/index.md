@@ -5,7 +5,7 @@ layout: home
 hero:
   name: 'AlphaFoxz'
   text: 'A VitePress Site'
-  tagline: My great project tagline
+  tagline: My personal website
   actions:
     - theme: brand
       text: '项目经历'
@@ -18,10 +18,20 @@ hero:
       link: /zh/ddd/1-core-methodology
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Java
+    details: Life is short, Java is long
+  - title: Kotlin
+    details: All you need is Kotlin
+  - title: Python
+    details: Oh, dynamic typing, I can't quite handle it
+  - title: Go
+    details: Burn it up!
+  - title: C#
+    details: Pretty good in my opinion
+  - title: TypeScript
+    details: TypeScript makes your life easier
+  - title: Rust
+    details: Never be my first choice
+  - title: Zig
+    details: Make low-level language great again
 ---

@@ -1,6 +1,6 @@
 # DDD 的学习方法和路径
 
-[视频链接](https://www.bilibili.com/video/BV1Lj411J7JX){target="\_blank"}
+[视频链接](https://www.bilibili.com/video/BV1Lj411J7JX)
 
 - 实践是学习 DDD 的唯一方法
 
