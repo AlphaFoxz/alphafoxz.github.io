@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'AlphaFoxz',
   description: 'A VitePress Site',
+  head: [['link', { rel: 'icon', href: '/public/avatar.png' }]],
   base: '/',
   locales: {
     root: {
@@ -14,9 +15,9 @@ export default defineConfig({
         nav: [
           { text: '主页', link: '/zh/' },
           { text: '项目经历', link: '/zh/experience/1-government' },
+          { text: '个人作品', link: '/zh/open-source/1-monaco-tree-editor' },
           { text: '领域驱动设计', link: '/zh/ddd/1-core-methodology' },
         ],
-
         sidebar: {
           '/zh/experience/': [
             {
@@ -45,6 +46,16 @@ export default defineConfig({
                 { text: 'DDD 与 MVC', link: '/zh/ddd/12-mvc' },
                 { text: 'DDD 与微服务', link: '/zh/ddd/13-microservices' },
                 { text: 'DDD 与敏捷开发', link: '/zh/ddd/14-agile-development' },
+              ],
+            },
+          ],
+          '/zh/open-source/': [
+            {
+              text: '个人作品',
+              items: [
+                { text: 'monaco-tree-editor', link: '/zh/open-source/1-monaco-tree-editor' },
+                { text: 'oneboot', link: '/zh/open-source/2-oneboot' },
+                { text: 'restful-dsl-java', link: '/zh/open-source/3-restful-dsl-java' },
               ],
             },
           ],

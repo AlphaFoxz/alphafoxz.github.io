@@ -2,10 +2,12 @@
 
 ## 长虹佳华项目管理系统
 
-`SpringBoot` `Vue3` `Activiti`
+[`SpringBoot`](https://spring.io/projects/spring-boot)
+[`Vue3`](https://vuejs.org/)
+[`Activiti`](https://www.activiti.org/)
 
 <i class="pi pi-globe"></i>
-[官网地址](http://xmgl.changhongit.cn){target="\_blank"}
+[官网地址](http://xmgl.changhongit.cn)
 
 - 长虹嘉华内部项目管理系统。典型的交互不多但流程长的场景，核心业务为项目报备，库存分配，合同审批、合同模板管理、合同打印
 
@@ -16,9 +18,12 @@
 
 ## 木雕 APP
 
-`React Native` `SpringBoot` `Redis` `Redisson`
+[`React Native`](https://reactnative.dev/)
+[`SpringBoot`](https://spring.io/projects/spring-boot)
+[`Redis`](https://redis.io/)
+[`Redisson`](https://redisson.pro/)
 
-<!-- ![木雕1](/1.experience/enterprise-mudiao1.png) -->
+![木雕1](./2-enterprise-mudiao1.jpg){width="50%"}
 
 - b2c 商城
 - 采用
@@ -32,9 +37,15 @@
 
 ## 铸造云-人才系统
 
-`SpringBoot` `Lucene` `Vue` `SSO` `WebSocket` `layui`
+[`SpringBoot`](https://spring.io/projects/spring-boot)
+[`Lucene`](https://lucene.apache.org/)
+[`Vue3`](https://vuejs.org/)
+[`SSO`](https://www.ibm.com/cn-zh/topics/single-sign-on)
+[`WebSocket`](https://developer.mozilla.org/zh-CN/docs/Web/API/WebSockets_API)
+[`Layui`](https://layui.dev/)
 
-<!-- ![铸造云1](/1.experience/enterprise-zhuzaoyun1.png) -->
+![铸造云1](./2-enterprise-zhuzaoyun1.png){width="50%"}
+![铸造云2](./2-enterprise-zhuzaoyun2.png){width="50%"}
 
 <i class="pi pi-globe"></i>
 [官网地址](https://job.zhuzaocloud.com/){target="\_blank"}
