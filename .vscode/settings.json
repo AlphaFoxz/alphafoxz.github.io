@@ -4,4 +4,8 @@
     "editor.tabSize": 2,
     "prettier.tabWidth": 2,
     "prettier.printWidth": 120,
+    "prettier.semi": true,
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    }
 }

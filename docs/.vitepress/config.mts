@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -25,6 +25,7 @@ export default defineConfig({
               items: [
                 { text: '政府项目', link: '/zh/experience/1-government' },
                 { text: '企业项目', link: '/zh/experience/2-enterprise' },
+                // { text: '个人简历', link: '/zh/experience/3-resume' },
               ],
             },
           ],
@@ -67,4 +68,4 @@ export default defineConfig({
       },
     },
   },
-})
+});
