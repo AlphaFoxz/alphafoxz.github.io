@@ -40,19 +40,19 @@ jobs:
         with:
           node-version: 20
           cache: pnpm
-          cache-dependency-path: github-pages/pnpm-lock.yaml # 指定 lockfile 路径
+          cache-dependency-path: pnpm-lock.yaml # 指定 lockfile 路径
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
-        working-directory: github-pages # 指定工作目录
+        # working-directory: github-pages # 指定工作目录
       - name: Build with VitePress
         run: pnpm docs:build
-        working-directory: github-pages # 指定工作目录
+        # working-directory: github-pages # 指定工作目录
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: github-pages/docs/.vitepress/dist # 修改为实际的构建输出路径
+          path: docs/.vitepress/dist # 修改为实际的构建输出路径
 
   # Deployment job
   deploy:
